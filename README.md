@@ -1,2 +1,2 @@
 # FindTheWords
-# Do a simple binnary search and linear search
+Do a simple binnary search and linear search
